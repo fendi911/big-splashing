@@ -1,5 +1,4 @@
 [
-<<<<<<< HEAD
    {
      "id": "100",
      "name": "Fußsprung vorwärts",
@@ -66,7 +65,6 @@
       }
     },
  ]
-=======
   {
     "id": "100",
     "name": "Fußsprung vorwärts",
@@ -87,4 +85,3 @@
   }
 
 ]
->>>>>>> d1ad33be73a353c0f41c267602179598fae1d695
